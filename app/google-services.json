@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "960383452179",
+    "firebase_url": "https://utsshinta.firebaseio.com",
+    "project_id": "utsshinta",
+    "storage_bucket": "utsshinta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960383452179:android:f3e0801f5aceb2291dabe6",
+        "android_client_info": {
+          "package_name": "com.asus.uts_amub_ti7a_1711500006_shinta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960383452179-0i6b5g9oqrh0n92m5n3cv8t0ie0m8b85.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3o-ZPbIeaSO67pZnneF8MtvXHQ-r3vvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960383452179-0i6b5g9oqrh0n92m5n3cv8t0ie0m8b85.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
